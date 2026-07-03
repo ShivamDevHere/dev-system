@@ -9,7 +9,7 @@ Text ignore lorem(22)
 ∩       ∅       Δ        ∂        ∫      ∑       ∝
 ⊥       ∥        °       ′ / ″     ¬      ∧       ∨
 :=       ↑        ↓        ✓     ✗      ??      ∀
-   ⊕
+   ⊕     ∃    ∄
 
 ---
 
@@ -43,9 +43,10 @@ description space space
 new line we get 
 
 ---
-
 # VS Code: Break point
 - add red dot
 - F5 to start
 - F10 to traverse
+
+- `code -r {name}`: opens succeeding folder as vs code and removes older
 ---

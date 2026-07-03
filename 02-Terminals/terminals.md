@@ -34,6 +34,7 @@
 - `code img.jpeg`    :  Open file in VS Code 
 - `python virtualpaint.py` :  Run Python file  
 - `cls`  :    Clear terminal
+- `code -r "first"` : Opens "first as open with vs code"
 
 ---
   

@@ -7,8 +7,8 @@ Root
 └── Install & Apply.md
 ```
 ---
--    ∀       →       ∵        ∴        ✓        ✗       ∝      Δ       ∈       ∉       ≠       ≈ 
--    ≡        ∞       √        ∛        ⊂        ⊆        ∪      ∩       ∅       ∑        ↑        ↓  
+-    ∀       →       ∵        ∴        ✓        ✗       ∝      Δ       ∈       ∉       ≠       ≈      ∃    
+-    ≡        ∞       √        ∛        ⊂        ⊆        ∪      ∩       ∅       ∑        ↑        ↓     ∄
 ---
 - ignore extension on entire repo  : ` *.env`
 - ignore a file on entire repo          : ` mylogs.log`
@@ -22,4 +22,7 @@ Root
 - CMD:     `dir`   `clr`
 ---
 - `<img src="#" height="auto" width="433">`
+---
+- ctrl + up + K    deletes entire row
+- Alt + up + UP/DOWN    to traverse cursor faster 
 ---
