@@ -74,7 +74,7 @@ git commit -m "refactor: clean code and structure"
 ---
 ## Different States of file
 
-![My Imageb](assets/git-states.png)
+<img src="assets/git-states.png" width="300">
 
 ---
 ## Commit types
