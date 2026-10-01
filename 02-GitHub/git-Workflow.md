@@ -135,6 +135,15 @@ git commit -m "refactor: clean code and structure"
     <td><span style="color:red;">M</span><span style="color:green;">M</span></td><td>File staged and after modified</td></tr></table>
 
 ---
+##### ==late inserstion in .gitignore==
+```cmd
+	git rm -r --cached folder-name
+	git add .gitignore
+	git commit -m "chore: remove ignored folder"
+	git push
+```
+
+---
 ##### ==`git checkout index.html`==
 - Example
 	1. Earlier: `git status`: tree clean
